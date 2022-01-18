@@ -1,6 +1,12 @@
 # BanditPAM Demo
-[Alpine Data Lovers](https://www.meetup.com/alpine-data-lovers) BanditPAM code examples
+[Alpine Data Lovers](https://www.meetup.com/alpine-data-lovers) BanditPAM 
 
+## Installation ⚙️  
+
+- Create an environment and activate it
+- `pip install -r requirements.txt`
+- [optional: create jupyter kernel]  
+```python -m ipykernel install --user --name banditpam_demo --display-name "BanditPAM"```
 ## Basic example
 
 Random data points...
