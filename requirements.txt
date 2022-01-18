@@ -1,0 +1,6 @@
+numpy
+banditpam==3.0.2a0
+sklearn
+ipykernel
+matplotlib
+
